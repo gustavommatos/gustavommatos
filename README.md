@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  <h3>Add no Linkedin? <a href="https://www.linkedin.com/in/gmmatos/" target="_blank">gmmatos</a></h3>
+  <h3>Linkedin:<a href="https://www.linkedin.com/in/gmmatos/" target="_blank">gmmatos</a></h3>
 
 </div>
 
 <div align="center">
   
-  **Academinco de análise e desenvolvimento de sistemas pela UNIP. :man_technologist:**
+  **Estudante de análise e desenvolvimento de sistemas pela UNIP. :man_technologist:**
   
   **Parnamirim - Brasil :earth_americas:**
   
