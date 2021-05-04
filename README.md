@@ -23,17 +23,17 @@
 </div>
 
 
-<div align="center">
+<div>
   
   ## Linguagens e ferramentas
   
   <ul>
-    HTML
-    CSS
-    JAVASCRIPT
-    PYTHON
-    PYCHARM
-    VISUAL STUDIO CODE
-    GIT BASH
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+    <li>PYTHON</li>
+    <li>PYCHARM</li>
+    <li>VISUAL STUDIO CODE</li>
+    <li>GIT BASH</li>
   </ul
 </div>
