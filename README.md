@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ##Sobre
+  ## Sobre
   
   **👨‍💻 Autônomo**
   
@@ -25,13 +25,13 @@
 
 <div align="center">
   
-  ##Stack
+  ## Stack
   
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-  ##Interesse
+  ## Interesse
 
   ![Python Badge](https://img.shields.io/badge/-Python-407EB0?style=flat-square&logo=python&logoColor=white)
 </div>
