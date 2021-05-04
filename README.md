@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3>Linkedin:<a href="https://www.linkedin.com/in/gmmatos/" target="_blank">gmmatos</a></h3>
+  <h3>Linkedin: <a href="https://www.linkedin.com/in/gmmatos/" target="_blank">gmmatos</a></h3>
 
 </div>
 
