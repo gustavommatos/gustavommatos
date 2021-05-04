@@ -8,11 +8,11 @@
 
 <div align="center">
   
-  **Autônomo**
+  **👨‍💻 Autônomo**
   
-  **:man_technologist: Estudante de análise e desenvolvimento de sistemas pela UNIP.**
+  **📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**
   
-  **:earth_americas: Parnamirim - Brasil**
+  **📌 Parnamirim - Brasil**
   
 </div>
 
