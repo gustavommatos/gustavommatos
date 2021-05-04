@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  **Estudante de análise e desenvolvimento de sistemas pela UNIP. :man_technologist:**
+  **:man_technologist: Estudante de análise e desenvolvimento de sistemas pela UNIP.**
   
-  **Parnamirim - Brasil :earth_americas:**
+  **:earth_americas: Parnamirim - Brasil**
   
 </div>
 
