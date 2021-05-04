@@ -8,6 +8,8 @@
 
 <div align="center">
   
+  **Autônomo**
+  
   **:man_technologist: Estudante de análise e desenvolvimento de sistemas pela UNIP.**
   
   **:earth_americas: Parnamirim - Brasil**
