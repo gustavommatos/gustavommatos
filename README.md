@@ -30,13 +30,13 @@
   ## Linguagens e ferramentas
   
   <ul>
+    <li>PYTHON</li>
+    <li>PYCHARM</li>  
+    <li>GIT BASH</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JAVASCRIPT</li>
-    <li>PYTHON</li>
-    <li>PYCHARM</li>
     <li>VISUAL STUDIO CODE</li>
-    <li>GIT BASH</li>
   </ul>
   
 </div>
