@@ -9,11 +9,9 @@
 
 ### Sobre
   
-**👨‍💻 Autônomo**
-  
-**📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**
-  
-**📌 Parnamirim - Brasil**
+**👨‍💻 Autônomo** - *Prestador de serviços de automações*<br>
+**📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**<br>
+**📌 Parnamirim/RN - Brasil**<br>
 
 ### Linguagens e ferramentas
   
