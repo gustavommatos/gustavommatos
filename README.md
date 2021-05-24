@@ -9,7 +9,7 @@
 
 ### Sobre
   
-**👨‍💻 Autônomo** - *Prestador de serviços de automações*<br>
+**👨‍💻 Autônomo** - *Processos de melhorias e automações*<br>
 **📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**<br>
 **📌 Parnamirim/RN - Brasil**<br>
 
