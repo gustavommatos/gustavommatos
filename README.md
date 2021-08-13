@@ -9,7 +9,7 @@
 
 ### Sobre
   
-**👨‍💻 Autônomo** - *Processos de melhorias e automações*<br>
+**👨‍💻 Assistente de sistemas interno**<br>
 **📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**<br>
 **📌 Parnamirim/RN - Brasil**<br>
 
