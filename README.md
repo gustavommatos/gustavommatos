@@ -9,19 +9,16 @@
 
 ### Sobre
   
-**👨‍💻 Assistente de sistemas interno**<br>
-**📚 Estudante de análise e desenvolvimento de sistemas pela UNIP.**<br>
+**👨‍💻 Implantador de sistemas**<br>
+**📚 Estudante de análise e desenvolvimento de sistemas pela UNIP e TI pela UFRN/IMD.**<br>
 **📌 Parnamirim/RN - Brasil**<br>
 
 ### Linguagens e ferramentas
   
 - PYTHON
-- JAVASCRIPT
-- HTML
-- CSS
+- PANDAS
 - PYCHARM
-- GIT BASH
-- VISUAL STUDIO CODE
+- GIT/GITHUB
 
 ### Estatísticas do GitHub
 
