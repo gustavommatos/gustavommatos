@@ -13,13 +13,6 @@
 **📚 Estudante de análise e desenvolvimento de sistemas pela UNIP e TI pela UFRN/IMD.**<br>
 **📌 Parnamirim/RN - Brasil**<br>
 
-### Linguagens e ferramentas
-  
-- PYTHON
-- PANDAS
-- PYCHARM
-- GIT/GITHUB
-
 ### Estatísticas do GitHub
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavommatos&show_icons=true&theme=onedark)
