@@ -13,6 +13,3 @@
 **📌 Parnamirim/RN - Brasil**<br>
 
 ### Estatísticas do GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavommatos&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavommatos&layout=compact&theme=onedark)](https://github.com/gustavommatos/github-readme-stats)
