@@ -9,7 +9,7 @@
 ### Sobre
   
 **👨‍💻 Implantador de sistemas**<br>
-**📚 Estudante de análise e desenvolvimento de sistemas pela UNIP e TI pela UFRN/IMD.**<br>
+**📚 Estudante de análise e desenvolvimento de sistemas pela Uninassau**<br>
 **📌 Parnamirim/RN - Brasil**<br>
 
 ### Estatísticas do GitHub
