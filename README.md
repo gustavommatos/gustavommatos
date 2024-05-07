@@ -8,8 +8,6 @@
 
 ### Sobre
   
-**👨‍💻 Implantador de sistemas**<br>
-**📚 Estudante de análise e desenvolvimento de sistemas pela Uninassau**<br>
+**👨‍💻 Consultor de implantação**<br>
+**📚 Análise e desenvolvimento de sistemas pela Uninassau**<br>
 **📌 Parnamirim/RN - Brasil**<br>
-
-### Estatísticas do GitHub
